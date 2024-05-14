@@ -1,0 +1,69 @@
+[
+    {
+      "userName": "John Doe",
+      "email": "john@example.com",
+      "department": "IT",
+      "status": "Active"
+    },
+    {
+      "userName": "Jane Smith",
+      "email": "jane@example.com",
+      "department": "HR",
+      "status": "Inactive"
+    },
+    {
+      "userName": "shivam sharma",
+      "email": "shivam@example.com",
+      "department": "HR",
+      "status": "Inactive"
+    },
+    {
+      "userName": "vijay Nene",
+      "email": "vijay@example.com",
+      "department": "Development",
+      "status": "Inactive"
+    },
+    {
+      "userName": "Sarita patil",
+      "email": "sarita@example.com",
+      "department": "HR",
+      "status": "Inactive"
+    },
+    {
+      "userName": "JD Richard",
+      "email": "jd@example.com",
+      "department": "Testing",
+      "status": "Inactive"
+    },
+    {
+      "userName": "Sohail khan",
+      "email": "sohail@example.com",
+      "department": "Designer",
+      "status": "Inactive"
+    },
+    {
+      "userName": "Niraj saini",
+      "email": "niraj@example.com",
+      "department": "Accounts",
+      "status": "Inactive"
+    },
+    {
+      "userName": "Shaila singh",
+      "email": "shaila@example.com",
+      "department": "Support",
+      "status": "Inactive"
+    },
+    {
+      "userName": "surabhi patil",
+      "email": "surabhi@example.com",
+      "department": "Accounts",
+      "status": "Inactive"
+    },
+    {
+      "userName": "sourabh kadu",
+      "email": "sourabh@example.com",
+      "department": "Marketing",
+      "status": "Active"
+    }
+  ]
+  
